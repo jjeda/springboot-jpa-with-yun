@@ -1,10 +1,9 @@
-package me.jjeda.accountexample.dto;
+package me.jjeda.accountexample;
 
 import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import me.jjeda.accountexample.domain.Account;
 
 public class AccountDto {
 

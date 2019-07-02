@@ -1,10 +1,10 @@
-package me.jjeda.accountexample.domain;
+package me.jjeda.accountexample;
 
 import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import me.jjeda.accountexample.dto.AccountDto;
+import me.jjeda.accountexample.AccountDto;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;
